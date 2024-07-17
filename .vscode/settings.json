@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "mymoviereviewdb"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "group": "Development",
+            "name": "My User DB Connection",
+            "database": "mymoviereviewdb",
+            "username": "MovieReviewCommunity",
+            "connectionTimeout": 30
+        }
+    ]
+}
