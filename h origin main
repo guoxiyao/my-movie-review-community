@@ -1,0 +1,5 @@
+[33mcommit 5095289361e22515a35c86d961c6a5660af5dbf0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Guo Xiyao <3540069440@qq.com>
+Date:   Wed Jul 17 22:55:02 2024 +0800
+
+    Initial commit with database design, Node.js connection, and API endpoints
